@@ -1,6 +1,6 @@
 {
-    "name": "flutter_tflite",
-    "short_name": "flutter_tflite",
+    "name": "tflite_flutter",
+    "short_name": "tflite_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

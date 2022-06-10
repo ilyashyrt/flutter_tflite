@@ -1,4 +1,4 @@
-package com.example.flutter_tflite
+package com.example.tflite_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
